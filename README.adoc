@@ -1,0 +1,19 @@
+= Java Microbenchmark Harness (JMH) Examples
+:author: Micha Kops
+:toc:
+:icons:
+
+== Running the Examples
+
+Using http://maven.apache.org[Maven]:
+
+[source,bash]
+mvn clean package && java -cp target/benchmark.jar com.hascode.tutorial.DefaultsBenchmarkExample
+
+== More
+
+Please feel free to have a look at http://www.hascode.com/[my blog] for more detailed information.
+
+---
+
+**2017 Micha Kops / hasCode.com**
